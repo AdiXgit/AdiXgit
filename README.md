@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiXgit
-- 👀 I’m interested in Machine Learning and quantum computing
+- 👀 I’m interested in Machine Learning,quantum computing and webtech
 - 🌱 I’m currently learning to effectively use neural networks to build probabilistic models such as monte carlo simulation
 - 💞️ I’m looking to collaborate on  with  people who want to work in quant finance using machine learning
 - 📫 How to reach me ... 
